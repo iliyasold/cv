@@ -1,4 +1,4 @@
 # The Curriculum Vitae
 
 ### Copyright
-Copyright © 2018 Soldatkin™Lab
+Since 1999 © Soldatkin™Lab
